@@ -1,2 +1,14 @@
-.venv
+# Virtual environment folder
+.venv/
+venv/
+env/
+
+# API keys and environment variables
 .env
+
+# Python caching systems
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
